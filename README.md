@@ -1,7 +1,5 @@
 ### Hi there I'm Ozan👋
 
-<!--
-**oozanguner/oozanguner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 💼 Experienced Retail Executive 
 - 🔭 Currently working on Python
