@@ -1,9 +1,10 @@
 ### Hi there I'm Ozan👋
 
+Focusing on catching the connection between data points, extracting insights and building productive machine learning models using Python, SQL and PySpark. Developing recommendation systems using my technical and storytelling skills.
 
-- 💼 Data Scientist
-- 🎸 A good music listener <br/>
-#### 📫 How to reach me:
--  [Linkedin](https://www.linkedin.com/in/oozanguner/)
--  [Kaggle](https://www.kaggle.com/oktayozangner)
--  [Medium](https://zngnr.medium.com)
+🎒 Postgraduate -> E-commerce <br>
+📚 Bachelor -> Engineering <br>
+👨‍💻 Enthusiast about Computer Vision
+
+
+
