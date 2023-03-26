@@ -1,9 +1,7 @@
 ### Hi there I'm Ozan👋
 
 
-- 💼 Ex-Retail Executive 
-- 🔭 Currently working on **Python**
-- 💻 Eager to bring out the best in **Data** **Science** & **Machine** **Learning**
+- 💼 Data Scientist
 - 🎸 A good music listener <br/>
 #### 📫 How to reach me:
 -  [Linkedin](https://www.linkedin.com/in/oozanguner/)
