@@ -4,7 +4,7 @@ Focusing on catching the connection between data points, extracting insights and
 
 🎒 Postgraduate -> E-commerce <br>
 📚 Bachelor -> Engineering <br>
-👨‍💻 Enthusiast about Computer Vision
+👨‍💻 Enthusiast about NLP and Computer Vision
 
 
 
