@@ -4,9 +4,9 @@ Focusing on creating hyper-personalized user experience by leveraging Retrieval 
 
 Here's my tech arsenal:
 
-**Cutting-edge LLMs:** OpenAI, Meta Llama
-**Seamless Search & Retrieval:** Azure Cognitive Search, Retrieval Augmented Generation
-**Mighty Vector Databases:** Qdrant, Milvus, Pinecone
+**Cutting-edge LLMs:** OpenAI, Meta Llama <br>
+**Seamless Search & Retrieval:** Azure Cognitive Search, Retrieval Augmented Generation <br>
+**Mighty Vector Databases:** Qdrant, Milvus, Pinecone <br>
 **Framework:** Langchain
 
 💻 Master -> Intelligent Interactive Systems <br>
