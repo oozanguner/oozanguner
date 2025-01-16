@@ -1,7 +1,7 @@
 # Hi there, I'm Ozan Güner! 👋
 
 ### 🚀 About Me
-I'm a passionate **Data Scientist** with a knack for building end-to-end solutions leveraging advanced analytics techniques. Currently pursuing an **M.S. in Intelligent Interactive Systems** at Pompeu Fabra University, my expertise includes in areas like **Generative AI**, **predictive modeling**, **time-series forecasting**, and **NLP**.
+I'm a passionate **Data Scientist** with a knack for building end-to-end solutions leveraging advanced analytics techniques. Currently pursuing an **M.S. in Intelligent Interactive Systems** at Pompeu Fabra University, my expertise includes areas like **Generative AI**, **predictive modeling**, **time-series forecasting**, and **NLP**.
 
 ### 💻 Professional Highlights
 - **AI Innovation**: Developed [roobin.ai](https://roobin.ai), an advanced multimodal Retrieval-Augmented Generation (RAG) platform deployed for clients in media, automotive, and mining industries.
